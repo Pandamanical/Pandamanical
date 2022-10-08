@@ -2,6 +2,8 @@
 - 👀 I’m interested in hardware security and Python programming! I'm developing my skillset at the moment and picking up the basics.
 - 🌱 I’m currently learning Python coding, some simple scripting to compliment Masters Degree experience! :)
 
+
+Working through the content of the OSSU at https://github.com/ossu/computer-science
 <!---
 Pandamanical/Pandamanical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
